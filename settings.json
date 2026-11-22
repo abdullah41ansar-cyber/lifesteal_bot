@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "DarkZyroxback"
+      "enabled": true,
+      "password": "123456789"
     },
     "anti-afk": {
       "enabled": true,
