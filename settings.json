@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ASMA_SMP",
   "bot-account": {
     "username": "ORVYTHMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
+    "ip": "ASMA-SMP.aternos.me",
+    "port": 40795,
     "version": "1.20.1",
     "try-creative": false
   },
