@@ -1,7 +1,7 @@
 {
   "name": "ASMA_SMP",
   "bot-account": {
-    "username": "ASMA_SMP",
+    "username": "Ronny",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "123456789"
     },
     "anti-afk": {
