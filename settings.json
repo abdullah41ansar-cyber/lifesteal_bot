@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "123456789"
+      "password": "da5cad60"
     },
     "anti-afk": {
       "enabled": true,
